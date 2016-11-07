@@ -3,7 +3,6 @@ A sample code for understanding how to realize OOP(object-oriented programming) 
 
 Please see a main.c file. An override function using c is realized.
 
-    ```ruby
     int main(void)
     {
         Shape       *shapes[3];
@@ -20,5 +19,3 @@ Please see a main.c file. An override function using c is realized.
 
         return 0;
     }
-    ```
-
