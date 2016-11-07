@@ -1,4 +1,4 @@
-# OOP(object-oriented programming) by C language.
+# OOP(Object-Oriented Programming) by C language.
 A sample code for understanding how to realize OOP(Object-Oriented Programming) by C language.
 
 Please see a "main.c" file as below. An override function using c is achieved.
